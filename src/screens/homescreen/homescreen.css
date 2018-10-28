@@ -1,0 +1,8 @@
+.wrapper {
+  align-items: center;
+  justify-content: center;
+}
+
+StackLayout {
+  flex: 1;
+}
